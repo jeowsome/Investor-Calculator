@@ -1,0 +1,12 @@
+type: hyperskill
+title: Calculator for Investors
+language: English
+summary: <p><span style="color:#000000"><span style="background-color:#ffffff">Create
+  a small program that helps investors make a fundamental analysis based on the company&#39;s
+  reports and estimate the company&#39;s performance. With this calculator, you can
+  choose the best company in the industry and decide whether to buy its shares or
+  not.</span></span></p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/264?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/264</a>
+programming_language: Python
+content:
+- Calculator for Investors
+mode: Study
